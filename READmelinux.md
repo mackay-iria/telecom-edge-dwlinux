@@ -11,7 +11,7 @@ Hi, I'm Mackay. This is a personal practice project I built to learn how data mo
 ---
 
 ## Skills I Am Actively Mastering
-* **Cross-OS Administration:** Working comfortably across standard client environments (Windows Desktop with Pronto Xi v740 Thin Clients) and backend runtime environments (Ubuntu Server VMs via SSH over custom ports).
+* **Cross-OS Administration:** Working comfortably across standard client environments (Windows Desktop with Linux VM) and backend runtime environments (Ubuntu Server VMs via SSH over custom ports).
 * **Linux CLI & Systems Networking:** Managing daemon services (`sshd`), manipulating firewalls (`ufw`), auditing listening network sockets (`ss -tulpn`), and organizing package environments.
 * **Pipeline Automation:** Stitching data generation, ETL transformations, and presentation services together into a strict chronological workflow execution.
 * **Interactive Visualization:** Utilizing Python to spin up dynamic web servers to share actionable corporate metrics without needing front-end web frameworks.
